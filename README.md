@@ -25,7 +25,7 @@ respect to accident severity and maximum casualities by type of vehicle.
 
 -Relation between Casualties by Area/ Location & by Day/Night
 
-**Stakeholders**
+**Stakeholders:**
 
 -Ministry of Transport
 
